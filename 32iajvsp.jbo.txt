@@ -1,0 +1,17 @@
+﻿Revert "good2"
+
+This reverts commit 633f0ca1ca50b3c2c09771e78ed066e9c4c5bb96.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 4 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   index.html
+#
+# Untracked files:
+#	fps3pbsf.jqu.txt
+#
+
